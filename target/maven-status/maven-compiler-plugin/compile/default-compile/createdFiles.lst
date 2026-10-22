@@ -1,0 +1,13 @@
+com/wastewise/api/model/WasteCategory.class
+com/wastewise/api/service/WasteCatalogService.class
+com/wastewise/api/service/WasteImageAnalysisService.class
+com/wastewise/api/model/ImagePrediction.class
+com/wastewise/api/model/WasteItem.class
+com/wastewise/api/WasteWiseApplication.class
+com/wastewise/api/controller/ImageAnalysisController.class
+com/wastewise/api/model/WasteImageAnalysis.class
+com/wastewise/api/service/HuggingFaceImageClassifier.class
+com/wastewise/api/service/WasteImageAnalysisService$WasteAdvice.class
+com/wastewise/api/controller/WasteController.class
+com/wastewise/api/config/WebConfig.class
+com/wastewise/api/service/WasteImageAnalysisService$ImageDimensions.class

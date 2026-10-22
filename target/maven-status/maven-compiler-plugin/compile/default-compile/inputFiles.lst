@@ -1,0 +1,11 @@
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/WasteWiseApplication.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/config/WebConfig.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/controller/ImageAnalysisController.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/controller/WasteController.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/model/ImagePrediction.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/model/WasteCategory.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/model/WasteImageAnalysis.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/model/WasteItem.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/service/HuggingFaceImageClassifier.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/service/WasteCatalogService.java
+/home/devxraj/Java/EVS/WasteWise-AI-Image-Classifier/waste-wise-prototype/backend/src/main/java/com/wastewise/api/service/WasteImageAnalysisService.java
